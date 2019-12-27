@@ -2,6 +2,8 @@
 
 # Compile
 g++ *.cpp -Wall -o TTT
+g++ -std=c++11 *.cpp -o TTT
+(use the std - c++ 11 flag if you get an error in the above)
 
 # Run
 # The players use standard input and output to communicate
