@@ -20,3 +20,15 @@ https://kth.kattis.com/problems/kth.ai.hmm1
 HMM0 Next Emission Distribution
 https://kth.kattis.com/problems/kth.ai.hmm0
 
+
+
+
+A2 :  TIC TAC TOE 2D (4X4) and TIC TAC TOE 3D (4X4) contains solutions to the following problems:
+
+
+2D Tic-tac-toe
+https://kth.kattis.com/problems/kth.ai.tictactoe2d
+
+
+3D Tic-Tac-Toe
+https://kth.kattis.com/problems/kth.ai.tictactoe3d
